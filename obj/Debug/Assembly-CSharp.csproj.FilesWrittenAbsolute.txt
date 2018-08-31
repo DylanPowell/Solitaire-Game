@@ -1,0 +1,17 @@
+/Users/temp/Slam/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/temp/Slam/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/temp/Slam/obj/Debug/Assembly-CSharp.dll
+/Users/temp/Slam/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/temp/Slam/Temp/bin/Debug/UnityEngine.dll
+/Users/temp/Slam/Temp/bin/Debug/UnityEditor.dll
+/Users/temp/Slam/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/temp/Slam/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/temp/Slam/Temp/bin/Debug/Mono.Cecil.dll
+/Users/temp/Slam/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/temp/Slam/Temp/bin/Debug/Unity.DataContract.dll
+/Users/temp/Slam/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/temp/Slam/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/temp/Slam/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/temp/Slam/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/temp/Slam/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/temp/Slam/Temp/bin/Debug/Mono.Cecil.Mdb.dll
